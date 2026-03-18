@@ -11,6 +11,8 @@ Currently running **live production systems** with real users, automated testing
 ### [MediTrack](https://github.com/sneh1117/MediTrack) — Medication Tracking Platform with AI Health Insights
 > **Live for 1 month** | **10-15 beta testers** | **99.5% uptime** | **FHIR R4-compliant**
 
+<img width="1365" height="720" alt="image" src="https://github.com/user-attachments/assets/ea420b81-7b2c-47e4-a02b-d3f2aa07fd8e" />
+
 A production-ready health tracking platform that consolidates medications, symptoms, and mood into one dashboard — with AI-powered insights and automated reminders.
 
 **Early Stage Results:**
@@ -34,6 +36,8 @@ A production-ready health tracking platform that consolidates medications, sympt
 
 ### [StitchTales](https://github.com/sneh1117/stitchtales) — Blogging Platform for the Maker Community
 > **Live in production** | **Full-featured CMS** | **Zero-dependency paywall**
+
+<img width="1272" height="611" alt="home" src="https://github.com/user-attachments/assets/ef07cc79-54cf-4ba5-838c-1b9f17e8ee37" />
 
 A Django-powered blogging platform built for craft creators — featuring rich text editing, visitor analytics, and a unique 3-second preview paywall to drive user registrations.
 
